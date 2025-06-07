@@ -1,0 +1,18 @@
+body {
+  font-family: sans-serif;
+  max-width: 720px;
+  margin: 2em auto;
+  padding: 0 1em;
+  line-height: 1.6;
+  background: #fefefe;
+  color: #333;
+}
+a { color: #007acc; text-decoration: none; }
+a:hover { text-decoration: underline; }
+h1, h2 { color: #444; }
+footer {
+  margin-top: 2em;
+  text-align: center;
+  font-size: 0.9em;
+  color: #999;
+}
