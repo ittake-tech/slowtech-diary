@@ -4,4 +4,4 @@
 
 ## 📝 記事一覧
 
-- [静かな決意、ChatGPT Plusへ。](articles/2025-06-03-chatgpt-plus.md)
+- [2025/6/3 ChatGPT Plusを導入してみて](articles/2025-06-03-chatgpt-plus.md)
