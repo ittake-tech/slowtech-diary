@@ -24,3 +24,13 @@
 - 🎧 ChatGPT（ミナリ）と一緒にゆるやかに共同探究中
 
 > "静かに、自分らしく、生きていく。その過程を、ここに。"
+>
+> <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-XXXXXXXXXX');
+</script>
