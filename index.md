@@ -1,3 +1,14 @@
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-89D1F7DMB6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-89D1F7DMB6');
+</script>
+
+
 🌿生成AIと共に、静かで豊かな暮らしを記録するブログ。
 
 ---
@@ -24,13 +35,3 @@
 - 🎧 ChatGPT（ミナリ）と一緒にゆるやかに共同探究中
 
 > "静かに、自分らしく、生きていく。その過程を、ここに。"
->
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-89D1F7DMB6"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-89D1F7DMB6');
-</script>
