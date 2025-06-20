@@ -1,4 +1,4 @@
-# Minimal Peil
+# Minimal Peil(minipei)
 
 A minimalist life log exploring the blend of simplicity, permaculture, jazz, and everyday tech.
 
