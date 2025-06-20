@@ -24,7 +24,7 @@
 - [2025/6/4 SNS→ミニマリズムへ](articles/2025-06-04-sns-to-minimalism.md)
 - [2025/6/4 SNS→ミニマリズムへ](articles/2025-06-04-sns-to-minimalism.md)
 - [2025/6/4 SNS→ミニマリズムへ](articles/2025-06-04-sns-to-minimalism.md)
-- [2025/6/17 「売るため」じゃなく、「整えるため」にWebを使いたい](articles/2025-06-17-totonoeru_tame_no_web.md)
+- [2025/6/17「売るため」じゃなく、「整えるため」にWebを使いたい](articles/2025-06-17-totonoeru_tame_no_web.md)
 - [2025/6/4 OpenCVインストール奮闘記（macOS）](articles/2025-06-04-opencv-setup-diary.md)
 - [2025/6/3 AIジャズDJ](articles/2025-06-03-jazzdj.md)
 - [2025/6/3 ChatGPT Plusを導入してみて](articles/2025-06-03-chatgpt-plus.md)
