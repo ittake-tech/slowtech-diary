@@ -20,7 +20,7 @@
 - [2025/6/4 SNS→ミニマリズムへ](articles/2025-06-04-sns-to-minimalism.md)
 - [2025/6/4 SNS→ミニマリズムへ](articles/2025-06-04-sns-to-minimalism.md)
 - [2025/6/4 SNS→ミニマリズムへ](articles/2025-06-04-sns-to-minimalism.md)
-- [2025/6/4 SNS→ミニマリズムへ](articles/2025-06-04-sns-to-minimalism.md)
+- [2025/6/19 Tune Proを“しまう”という選択](articles/2025-06-19-tunepro_wo_shimau_sentaku.md)
 - [2025/6/18 YouTubeとBraveを手放してみた話](articles/2025-06-18-youtube_to_brave_sayonara_jikken.md)
 - [2025/6/4 SNS→ミニマリズムへ](articles/2025-06-04-sns-to-minimalism.md)
 - [2025/6/18 ネックストラップポーチと、さよならした財布と物欲の話](articles/2025-06-18-neck_strap_pouch_to_sayonara_wallet.md)
