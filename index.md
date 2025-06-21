@@ -9,7 +9,9 @@
 </script>
 
 小さくて豊かな日々の記録。Minimal Peil(minipei)は、ミニマリズム・パーマカルチャー・ジャズのある暮らしをベースに、自由に綴る雑記ブログです。
+---
 
+[me](profile.md)
 ---
 
 ## 📝 記事一覧
@@ -29,7 +31,5 @@
 - [2025/6/3 ChatGPT Plusを導入してみて](articles/2025-06-03-chatgpt-plus.md)
 - [2025/5/20](articles/2025-05-20.md)
 
----
 
-[me](profile.md)
 
