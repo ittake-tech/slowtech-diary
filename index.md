@@ -19,7 +19,7 @@
 - [2025/6/4 SNS→ミニマリズムへ](articles/2025-06-04-sns-to-minimalism.md)
 - [2025/6/4 SNS→ミニマリズムへ](articles/2025-06-04-sns-to-minimalism.md)
 - [2025/6/4 SNS→ミニマリズムへ](articles/2025-06-04-sns-to-minimalism.md)
-- [2025/6/4 SNS→ミニマリズムへ](articles/2025-06-04-sns-to-minimalism.md)
+- [2025/6/18 YouTubeとBraveを手放してみた話](articles/2025-06-18-youtube_to_brave_sayonara_jikken.md)
 - [2025/6/4 SNS→ミニマリズムへ](articles/2025-06-04-sns-to-minimalism.md)
 - [2025/6/18 ネックストラップポーチと、さよならした財布と物欲の話](articles/2025-06-18-neck_strap_pouch_to_sayonara_wallet.md)
 - [2025/6/17「売るため」じゃなく、「整えるため」にWebを使いたい](articles/2025-06-17-totonoeru_tame_no_web.md)
