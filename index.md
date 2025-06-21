@@ -26,7 +26,7 @@
 - [2025/6/4 SNS→ミニマリズムへ](articles/2025-06-04-sns-to-minimalism.md)
 - [2025/6/4 SNS→ミニマリズムへ](articles/2025-06-04-sns-to-minimalism.md)
 - [2025/6/4 SNS→ミニマリズムへ](articles/2025-06-04-sns-to-minimalism.md)
-- [2025/6/4 SNS→ミニマリズムへ](articles/2025-06-04-sns-to-minimalism.md)
+- [2025/6/19 靴下を5ペア手放して、心がすこし軽くなった話](articles/2025-06-19-socks_5pair_tebanashi.md)
 - [2025/6/19 Audibleを手放してみた話](articles/2025-06-19-audible_wo_tebanashite_mita.md)
 - [2025/6/19 Tune Proを“しまう”という選択](articles/2025-06-19-tunepro_wo_shimau_sentaku.md)
 - [2025/6/18 YouTubeとBraveを手放してみた話](articles/2025-06-18-youtube_to_brave_sayonara_jikken.md)
