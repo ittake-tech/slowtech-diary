@@ -23,7 +23,7 @@
 - [2025/6/4 SNS→ミニマリズムへ](articles/2025-06-04-sns-to-minimalism.md)
 - [2025/6/4 SNS→ミニマリズムへ](articles/2025-06-04-sns-to-minimalism.md)
 - [2025/6/4 SNS→ミニマリズムへ](articles/2025-06-04-sns-to-minimalism.md)
-- [2025/6/4 SNS→ミニマリズムへ](articles/2025-06-04-sns-to-minimalism.md)
+- [2025/6/19 OSP1台でじゅうぶん。いまの自分にちょうどいい音との付き合い方](articles/2025-06-19-osp1dai_de_jubun.md)
 - [2025/6/19 OSPに「Way Out West」だけを入れた話 〜音のミニマリズム〜](articles/2025-06-19-osp_way_out_west_only.md)
 - [2025/6/19「A4000+BTR13を手放したけど、OSPで救われた話」](articles/2025-06-19-a4000_btr13_to_osp.md)
 - [2025/6/19 靴下を5ペア手放して、心がすこし軽くなった話](articles/2025-06-19-socks_5pair_tebanashi.md)
