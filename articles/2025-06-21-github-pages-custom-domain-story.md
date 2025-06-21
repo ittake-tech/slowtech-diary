@@ -11,7 +11,7 @@
 
 - 使っているドメイン：`www.minipei.com`（ムームードメインで取得）
 - サイト本体：GitHub Pages（ittake-tech.github.io）
-- スマホから設定してた（iPhone + Safari）
+- スマホから設定してた（iPhone + Chrome）
 
 ---
 
