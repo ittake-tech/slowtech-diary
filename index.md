@@ -16,7 +16,7 @@
 
 ## 📝 記事一覧
 
-- [2025/6/21 GitHub Pagesでカスタムドメインを設定するまでの奮闘記](articles/2025-06-21-github-pages-custom-domain-story.md)
+- [2025/6/21 GitHub Pagesでカスタムドメインを設定するまでの奮闘記](articles/2025-06-21-let-go-sns-and-youtube.md)
 - [2025/6/21 GitHub Pagesでカスタムドメインを設定するまでの奮闘記](articles/2025-06-21-github-pages-custom-domain-story.md)
 - [2025/6/20 AirPods Proでもダメだった私が、骨伝導で“本当の快適”を見つけるまで](articles/2025-06-20-airpods_dame_kara_boneconfort.md)
 - [2025/6/19 OSP1台でじゅうぶん。いまの自分にちょうどいい音との付き合い方](articles/2025-06-19-osp1dai_de_jubun.md)
