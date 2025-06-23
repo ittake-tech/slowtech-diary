@@ -34,7 +34,7 @@ Giscusは、GitHub Discussions（ディスカッション機能）を活用し�
 
 ## 📦 実装した手順（ざっくり）
 
-```plaintext
+
 1. GitHub Discussionsを有効にする
    → 「Settings > Features > Discussions」からONに
 
