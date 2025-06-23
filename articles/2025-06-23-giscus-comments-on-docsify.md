@@ -62,7 +62,7 @@ Giscusは、GitHub Discussions（ディスカッション機能）を活用し�
         async>
 </script>
 
-💡 data-theme="light" にしておけば、やさしいライトモードになります```
+💡 data-theme="light" にしておけば、やさしいライトモードになります
 
 ⸻
 
