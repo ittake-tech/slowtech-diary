@@ -15,6 +15,8 @@
     gtag('config', 'G-89D1F7DMB6');
   </script>
 
+  <!-- やさしい見た目用CSS -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable/dist/css/theme-simple.css">
 </head>
 <body>
   <div id="app"></div>
@@ -22,12 +24,23 @@
   <script>
     window.$docsify = {
       name: 'Minimal Peil',
-      repo: '', // GitHubリポジトリURLを入れてもOK
       loadSidebar: true,
       subMaxLevel: 2,
+      themeColor: '#86b49c',
+      darklightTheme: {
+        defaultTheme: 'light',
+        dark: {
+          background: '#1e1e1e',
+          textColor: '#eee',
+          linkColor: '#a0d8ef',
+          codeBackgroundColor: '#2d2d2d',
+        }
+      }
     }
   </script>
 
+  <!-- ダークモード切替スクリプト -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify-darklight-theme@3/dist/index.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
 </body>
 </html>
