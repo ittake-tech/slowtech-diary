@@ -17,7 +17,7 @@ jobs:
           echo "https://www.minimal-peil.com/" > sitemap.txt
           for file in articles/*.md; do
             name=$(basename "$file" .md)
-            echo "https://www.minimal-peil.com/#/$name" >> sitemap.txt
+            echo "https://www.minimal-peil.com/#/articles/$name" >> sitemap.txt
           done
 
       - name: Commit and push sitemap
