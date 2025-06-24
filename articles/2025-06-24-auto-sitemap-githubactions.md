@@ -77,6 +77,49 @@ GitHub Actions の設定で「書き込み権限」がオフになっていた�
 
 ⸻
 
+---
+
+## 🐛 そしてもうひとつ、ちょっとした罠…
+
+`sitemap.txt` の出力まではうまくいったんだけど、  
+よく見たら **URLの形式が少しおかしい**ことに気づいた。
+
+生成されたURLがこうなっていた：
+
+https://www.minimal-peil.com/#/2025-06-24-auto-sitemap-githubactions
+
+でも、私のブログでは `.md` ファイルはすべて `articles/` フォルダに入っているので、  
+正しいURLの形式はこうなるはず：
+
+https://www.minimal-peil.com/#/articles/2025-06-24-auto-sitemap-githubactions
+
+---
+
+### 🔍 原因はここ！
+
+`generate-sitemap.yml` のこの部分👇
+
+```bash
+name=$(basename "$file" .md)
+echo "https://www.minimal-peil.com/#/$name" >> sitemap.txt
+
+このままだと articles/ の部分が抜けたURLになっちゃう。
+
+⸻
+
+✅ 修正方法
+
+次のように articles/ を明示的に追加してあげることで、正しい形式になる✨
+
+name=$(basename "$file" .md)
+echo "https://www.minimal-peil.com/#/articles/$name" >> sitemap.txt
+
+これで、sitemap.txt のURLが正しくなった！
+細かい部分だけど、こういうのがしっかりしてると気持ちがいい🌿
+
+⸻
+
+
 ✍ おわりに
 
 ちょっとした自動化だけど、ブログをスマホで運営している私にとってはかなり大きな前進。
