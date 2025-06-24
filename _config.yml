@@ -1,0 +1,15 @@
+# _config.yml
+
+# サイトの基本設定（SEO的にも軽く反映される）
+title: Minimal Peil
+description: ペイルさんの暮らしの記録と学びのノート
+baseurl: "" # カスタムドメインだから空でOK
+url: "https://www.minimal-peil.com"
+
+# Markdownの変換エンジン指定
+markdown: kramdown
+
+# Google AnalyticsのトラッキングID（使うならここに入れてもOK）
+# google_analytics: G-XXXXXXX
+
+# その他（必要なら追記できる）
