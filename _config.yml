@@ -2,7 +2,7 @@
 
 # サイトの基本設定（SEO的にも軽く反映される）
 title: Minimal Peil
-description: ペイルさんの暮らしの記録と学びのノート
+description: ペイルの暮らしの記録と学びのノート
 baseurl: "" # カスタムドメインだから空でOK
 url: "https://www.minimal-peil.com"
 
