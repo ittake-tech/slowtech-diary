@@ -1,4 +1,7 @@
-# 静かな決意、ChatGPT Plusへ。
+---
+title: "静かな決意、ChatGPT Plusへ。"
+date: 2025-06-03
+---
 
 2025年6月。  
 私はついにChatGPT Plusプランに登録した。
