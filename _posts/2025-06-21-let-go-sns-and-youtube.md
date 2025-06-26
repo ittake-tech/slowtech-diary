@@ -1,4 +1,7 @@
-## SNSやYouTubeをやめたら、心が静かになった
+---
+title: "SNSやYouTubeをやめたら、心が静かになった"
+date: 2025-06-21
+---
 
 最近、Netflixで『今求められるミニマリズム（The Minimalists: Less Is Now）』を観ました。
 
