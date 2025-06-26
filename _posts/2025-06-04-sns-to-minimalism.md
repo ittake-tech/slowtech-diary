@@ -1,6 +1,8 @@
 ---
 title: "SNSを手放して見えてきたこと"
 date: 2025-06-04
+
+category: AI活用
 ---
 
 ## 🧭 きっかけは、ミニマリストTakeruさんの動画
@@ -67,26 +69,3 @@ noteの記事検索は使うけど、SNS的な使い方はしないつもり。
 
 **YouTubeだけを残す**というTakeruさんの選択は、自分にとっても無理がなく、ちょうど良い距離感だった。
 
----
-
-## 🌸 おわりに
-
-SNSを手放すことは、少し勇気のいる選択だったけれど、  
-そのあとに待っていたのは「静かだけど、ちゃんと動いてる日々」だった。
-
-デジタルとの関わり方を見直すことで、自分にとって本当に大事なことが浮かび上がってきた気がする。
-
-もし今、SNSとの距離に悩んでいる人がいたら──  
-**「手放す」ことは、失うことじゃなくて、「空ける」ことかもしれないよ。**
-
-自分のペースで、自分にちょうど良い関係を見つけていこう🌿
-
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-89D1F7DMB6"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-89D1F7DMB6');
-</script>
