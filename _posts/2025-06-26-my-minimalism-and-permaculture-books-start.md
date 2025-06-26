@@ -3,8 +3,6 @@ title: 私の「ミニマリズム」と「パーマカルチャー」本との�
 description: ジョシュア・ベッカーさんの本をきっかけに、四井真治さんやマーシャルまりこさんのパーマカルチャー本をまた読みたくなった話。私なりのミニマリズムとパーマカルチャーの道を、少しずつ探しはじめています。
 date: 2025-06-26
 tags: ["ミニマリズム", "パーマカルチャー", "読書", "自己探求", "ライフスタイル"]
-
-category: AI活用
 ---
 
 ## 🌱 「より少ない生き方」から始まった、心の動き
@@ -55,4 +53,18 @@ category: AI活用
 
 **「自分なりのミニマリズムとパーマカルチャーの形」**  
 これから少しずつ、育てていきます🌿
+
+---
+
+_（この記事はChatGPTとの対話をもとに作成しました）_
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-89D1F7DMB6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-89D1F7DMB6');
+</script>
 
