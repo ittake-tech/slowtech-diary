@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8">
+    <title>{{ page.title }} | {{ site.title }}</title>
+    <meta name="description" content="{{ site.description }}">
+
+    <!-- 他にも必要ならここにCSSやOGPタグとか -->
+
+  </head>
+  <body>
+
+    <header>
+      <h1><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
+    </header>
+
+    <main>
+      {{ content }}
+    </main>
+
+    <footer>
+      <p>&copy; {{ site.time | date: "%Y" }} Minimal Peil</p>
+    </footer>
+
+    <!-- 忍者アクセス解析タグここから -->
+    <script type="text/javascript" src="https://www.ninja.co.jp/analyze/◯◯◯.js"></script>
+    <!-- 忍者アクセス解析タグここまで -->
+
+  </body>
+</html>
