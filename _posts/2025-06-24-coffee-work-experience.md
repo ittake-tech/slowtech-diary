@@ -1,6 +1,8 @@
 ---
 title: "コーヒーの香りに包まれた作業体験"
 date: 2025-06-24
+
+category: 未分類
 ---
 
 今日は、ある就労支援施設での体験に行ってきました。  
@@ -54,18 +56,3 @@ Tune Proのノーマルモードに切り替えて、気持ちを整える時間
 最初は午前中（10:00〜12:00）だけの利用からスタートして、  
 慣れてきたら午後の作業（13:00〜15:00）にも挑戦できたらと思っています。
 
----
-
-はじめての場所は、どんなに準備していてもやっぱり緊張するもの。  
-でも少しずつ、「ここならやっていけるかも」と思える場所に出会えたことが、  
-今日はとても大きな一歩だったと感じています。
-
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-89D1F7DMB6"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-89D1F7DMB6');
-</script>
