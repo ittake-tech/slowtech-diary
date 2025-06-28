@@ -6,3 +6,8 @@
 
 ・🧠 ASD/ADHDあり。ひとつのことをじっくり深掘りするのが得意  
 ・🚶‍♀️ 無理なく、心地よく。静けさの中で暮らしを整え中
+
+Hello from Japan!  
+If you're reading this with Google Translate,  
+thank you for visiting my blog.  
+International readers are always welcome!
