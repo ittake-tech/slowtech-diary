@@ -76,7 +76,7 @@ tags: [パーマカルチャー, 気づき, ライフスタイル]
 
 ---
 
-## 関連記事
+## 📌 関連記事
 
 - [私の「ミニマリズム」と「パーマカルチャー」本との出会い直し](https://www.minimal-peil.com/2025/06/26/my-minimalism-and-permaculture-books-start.html)
 
