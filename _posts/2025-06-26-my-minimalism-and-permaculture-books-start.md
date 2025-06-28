@@ -58,6 +58,12 @@ tags: ["ミニマリズム", "パーマカルチャー", "読書", "自己探求
 
 _（この記事はChatGPTとの対話をもとに作成しました）_
 
+---
+
+## 関連記事
+
+- [ミニマリズムとパーマカルチャーの共通点](リンクURL-B)
+
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-89D1F7DMB6"></script>
 <script>
