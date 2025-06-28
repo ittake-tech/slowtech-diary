@@ -74,6 +74,13 @@ tags: [パーマカルチャー, 気づき, ライフスタイル]
 
 そんな風に思えた、今日この頃の記録。
 
+---
+
+## 関連記事
+
+- [ミニマリズムとパーマカルチャーの共通点](リンクURL-B)
+- [パーマカルチャーとの出会い](リンクURL-A)
+
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-89D1F7DMB6"></script>
 <script>
