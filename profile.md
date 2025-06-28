@@ -8,4 +8,5 @@
 ・🚶‍♀️ 無理なく、心地よく。静けさの中で暮らしを整え中
 
 Hello from Japan!  
-International readers are welcome.
+Thanks for finding your way here.  
+I hope you enjoy your time on my blog.
