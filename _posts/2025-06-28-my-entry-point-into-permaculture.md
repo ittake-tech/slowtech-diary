@@ -78,7 +78,7 @@ tags: [パーマカルチャー, 気づき, ライフスタイル]
 
 ## 関連記事
 
-- [ミニマリズムとパーマカルチャーの共通点](リンクURL-B)
+- [ミニマリズムとパーマカルチャーの共通点](2025-06-26-my-minimalism-and-permaculture-books-start.md)
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-89D1F7DMB6"></script>
