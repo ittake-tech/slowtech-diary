@@ -1,4 +1,4 @@
-# Minimal Peilはお引っ越しました
+# Minimal Peilはお引越ししました
 
 Minimal Peil（ペイルの暮らしの記録と学びのノート）は  
 現在、新しいURLにお引越ししました🌱
